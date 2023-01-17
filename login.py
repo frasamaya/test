@@ -3,7 +3,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 
 username = "admin"
-password = "admin123"
+password = "admin"
 url = 'https://itera-qa.azurewebsites.net/Login'
 
 chrome_options = webdriver.ChromeOptions()
